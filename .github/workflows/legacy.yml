@@ -1,4 +1,4 @@
-name: (GCC)Kernel Builder Huawei nova2
+name: (GCC)Kernel Builder Huawei nova 2
 
 on: [push]
 
